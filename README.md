@@ -26,5 +26,6 @@ Analyze sales, cost, and profit performance by customer segment to identify driv
 - Segment-level analysis highlights where strategic adjustments could improve overall profitability.
 
 **Visuals:**
+
 ![Sales Overview](images/sales_overview.png)  
 ![Profit Insight](images/sales_profit_insight.png)
