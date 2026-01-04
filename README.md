@@ -29,3 +29,16 @@ Analyze sales, cost, and profit performance by customer segment to identify driv
 **Visuals:**
 ![Sales Overview](images/sales_overview.png)  
 ![Profit Insight](images/sales_profit_insight.png)
+
+### Wildlife Strike Analysis (Power BI)
+
+**Objective:**  
+Analyze wildlife strike incidents to identify patterns in frequency, damage severity, and financial impact across time, location, and species.
+
+**Key Insights:**
+- Wildlife strikes occur most frequently during takeoff and landing phases, increasing operational risk near airports.
+- Certain species groups contribute disproportionately to total damage costs despite lower strike frequency.
+- Geographic and time-of-day patterns highlight opportunities for targeted risk mitigation strategies.
+
+**Visuals:**
+(Screenshots to be added)
