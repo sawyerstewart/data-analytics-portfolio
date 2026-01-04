@@ -27,7 +27,7 @@ Analyze sales, cost, and profit performance by customer segment to identify driv
 - A similar segmentation and KPI analysis approach was applied in a customer-facing environment at Restore Hyper Wellness, where existing dashboards and reports were used to support data-informed recommendations and sales decisions.
 
 **Visuals:**
-![Sales Overview](images/sales_overview.png)  
+<img src="images/sales_overview.png" width="800">
 ![Profit Insight](images/sales_profit_insight.png)
 
 ### Wildlife Strike Analysis (Power BI)
