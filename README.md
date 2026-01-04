@@ -44,3 +44,16 @@ Analyze wildlife strike incidents to identify patterns in frequency, damage seve
 ![Wildlife Overview](images/wildlife_overview.png)  
 ![Cost & Severity Analysis](images/wildlife_cost_severity.png)
 
+### Excel KPI Dashboard
+
+**Objective:**  
+Track key performance indicators and trends over time using Excel to support reporting and performance monitoring.
+
+**Key Insights:**
+- Consolidated multiple metrics into a single, easy-to-read dashboard.
+- Enabled quick comparison of performance trends across time periods.
+- Demonstrated advanced Excel functionality for analytics and reporting.
+
+**Visuals:**
+![Excel KPI Dashboard](images/excel_kpi_dashboard.png)
+
