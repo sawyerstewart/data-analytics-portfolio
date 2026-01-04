@@ -26,9 +26,10 @@ Analyze sales, cost, and profit performance by customer segment to identify driv
 - Segment-level analysis highlights opportunities for pricing, cost control, and sales strategy adjustments to improve overall profitability.
 - A similar segmentation and KPI analysis approach was applied in a customer-facing environment at Restore Hyper Wellness, where existing dashboards and reports were used to support data-informed recommendations and sales decisions.
 
-**Visuals:**
+**Sales Overview**
 <img src="images/sales_overview.png" width="800">
-![Profit Insight](images/sales_profit_insight.png)
+**Sales Profit Oversight**
+<img src="images/sales_profit_insight.png" width="800">
 
 ### Wildlife Strike Analysis (Power BI)
 
