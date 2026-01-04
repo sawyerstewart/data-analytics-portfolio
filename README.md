@@ -55,5 +55,5 @@ Track key performance indicators and trends over time using Excel to support rep
 - Demonstrated advanced Excel functionality for analytics and reporting.
 
 **Visuals:**
-![Excel KPI Dashboard](excel_kpi_dashboard.png)
+![Excel KPI Dashboard](images/excel_kpi_dashboard.png)
 
