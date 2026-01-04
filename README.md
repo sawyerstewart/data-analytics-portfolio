@@ -23,7 +23,8 @@ Analyze sales, cost, and profit performance by customer segment to identify driv
 **Key Insights:**
 - The Enterprise segment generates high revenue but operates at a loss, indicating cost inefficiencies or pricing issues.
 - Government and Small Business segments show healthier profit margins relative to sales volume.
-- Segment-level analysis highlights where strategic adjustments could improve overall profitability.
+- Segment-level analysis highlights opportunities for pricing, cost control, and sales strategy adjustments to improve overall profitability.
+- A similar segmentation and KPI analysis approach was applied in a customer-facing environment at Restore Hyper Wellness, where existing dashboards and reports were used to support data-informed recommendations and sales decisions.
 
 **Visuals:**
 ![Sales Overview](images/sales_overview.png)  
