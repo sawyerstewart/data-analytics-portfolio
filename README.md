@@ -44,9 +44,13 @@ Analyze wildlife strike incidents to identify patterns in frequency, damage seve
 - Certain species groups contribute disproportionately to total damage costs despite lower strike frequency.
 - Geographic and time-of-day patterns highlight opportunities for targeted risk mitigation strategies.
 
-**Visuals:**
-![Wildlife Overview](images/wildlife_overview.png)  
-![Cost & Severity Analysis](images/wildlife_cost_severity.png)
+**Wildlife Overview**
+
+<img src="images/wildlife_overview.png" width="800">
+
+**Wildlife Cost Severity**
+
+<img src="images/wildlife_cost_severity.png" width="800">
 
 ### Excel KPI Dashboard
 
