@@ -15,5 +15,16 @@ This repository showcases data analytics projects focused on transforming raw da
 - Trend identification and KPI monitoring
 
 ## Projects
-Detailed project files, datasets, and visuals will be added below.
+### Sales Performance Analysis (Power BI)
 
+**Objective:**  
+Analyze sales, cost, and profit performance by customer segment to identify drivers of profitability and areas of risk.
+
+**Key Insights:**
+- The Enterprise segment generates high revenue but operates at a loss, indicating cost inefficiencies or pricing issues.
+- Government and Small Business segments show healthier profit margins relative to sales volume.
+- Segment-level analysis highlights where strategic adjustments could improve overall profitability.
+
+**Visuals:**
+![Sales Overview](images/sales_overview.png)  
+![Profit Insight](images/sales_profit_insight.png)
