@@ -41,4 +41,6 @@ Analyze wildlife strike incidents to identify patterns in frequency, damage seve
 - Geographic and time-of-day patterns highlight opportunities for targeted risk mitigation strategies.
 
 **Visuals:**
-(Screenshots to be added)
+![Wildlife Overview](images/wildlife_overview.png)  
+![Cost & Severity Analysis](images/wildlife_cost_severity.png)
+
