@@ -64,5 +64,5 @@ Track key performance indicators and trends over time using Excel to support rep
 
 **Visual**
 
-<img src="images/excel_kpi_dashboard.png" width="400">
+<img src="images/excel_kpi_dashboard.png" height="400">
 
